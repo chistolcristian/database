@@ -1,3 +1,5 @@
+DATABASE
+___________________________________________________________________________________________________________________________________________________________________________________
 Composizione Gruppo:
 Cristian Chistol
 Ameer Abdullah Kalair
@@ -14,3 +16,7 @@ per quanto riguarda il codice anche lui stato modificato, visto che abbiamo trov
 
 Step 3:
 Dato che questa settimana è stata una settimana un può impegnativa per tutti, abbiamo avanzato di poco il nostro progetto, limitandoci di lavorare solo nelle ore di informatica nel corso di questa settimana, un altro fattore è stato che ho incontrato diversi problemi riguardo la sincronizzazione della parte grafica con il codice, ma cercheremo di risolverli prima possibile.
+
+Step 4:
+Dato che abbiamo una problema di codice , abbiamo ricambiato 50% del progetto per evitare la nostra problema
+___________________________________________________________________________________________________________________________________________________________________________________
